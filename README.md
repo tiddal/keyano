@@ -7,7 +7,7 @@
 - Use the keyboard to play different sounds
 - Watch some nice little visual effects appearing when a key is pressed
 
-## Tecnologies used:
+## Technologies used:
 
 - HTML 5
 - CSS 3
